@@ -1482,6 +1482,14 @@ return {
     maintainers = { '@abhisheksingh0x558' },
     tier = 2,
   },
+  norg = {
+    install_info = {
+      revision = 'cde89bd28d10245d9cf679b7f2d9571e1c55973b',
+      url = 'https://github.com/OctoJuggler/tree-sitter-norg',
+    },
+    maintainers = { '@OctoJuggler' },
+    tier = 2,
+  },
   objc = {
     install_info = {
       revision = '181a81b8f23a2d593e7ab4259981f50122909fda',
